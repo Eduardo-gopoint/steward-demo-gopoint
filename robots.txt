@@ -1,0 +1,4 @@
+# Replica de trabajo de steward.cl. Se mantiene fuera de los buscadores para no
+# competir con el sitio original por contenido duplicado.
+User-agent: *
+Disallow: /

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 236 70" role="img" aria-label="Steward, Make it happen">
+<title>Steward</title>
+<g transform="translate(118,0) scale(2.05) translate(-14.4,-6.6)" fill="#e30613">
+  <path d="M30.27,12.81v-5.35l-7.88,2.38-7.88-2.38v5.35l7.88-2.38,7.88,2.38ZM29.33,8.72v2.83l-4.68-1.41,4.68-1.41ZM15.44,11.55v-2.83l4.68,1.41-4.68,1.41Z"/>
+</g>
+<text x="118" y="46" text-anchor="middle" font-family="Georgia,'Times New Roman','Liberation Serif',serif" font-size="34"
+      font-weight="700" letter-spacing="1.5" fill="#111">STEWARD</text>
+<text x="118" y="64" text-anchor="middle" font-family="system-ui,-apple-system,'Segoe UI',Roboto,'Liberation Sans',Arial,sans-serif" font-size="10.5"
+      font-weight="700" letter-spacing=".2" fill="#111">Make it happen</text>
+</svg>
